@@ -21,4 +21,4 @@ Repo ini dijalankan dengan requirement berikut :
 
 
 ## Catatan Tambahan
-Ini adalah branch `sesi_1` yang merupakan kode dari pembahasan video di Sesi 1 mengenai chatbot sederhana pada tanggal 4 Agustus 2021, untuk mengakses semua kode anda dapat membuka `main` branch.
+Ini adalah branch `sesi_1` yang merupakan kode dari pembahasan video di Sesi 1 mengenai chatbot sederhana pada tanggal 4 Desember 2021, untuk mengakses semua kode anda dapat membuka `main` branch.
