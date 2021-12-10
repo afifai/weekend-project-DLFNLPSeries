@@ -24,5 +24,5 @@ Repo ini dijalankan dengan requirement berikut :
 Ini adalah `main` branch, yang merupakan kumpulan semua kode selama 3 sesi live, apabila Anda ingin mengakses kode untuk sesi tertentu, silahkan cek branch `sesi-n` dengan detil berikut :
 
 - Sesi 1 : Chatbot Sederhana [link](https://www.youtube.com/watch?v=HihKQ8F0k4c)
-- Sesi 2 : Chatbot Generatif [link TBA]
+- Sesi 2 : Chatbot Generatif [link](https://www.youtube.com/watch?v=lpxslIz7t9g)
 - Sesi 3 : Pembangkit Caption Otomatis [Link TBA]
